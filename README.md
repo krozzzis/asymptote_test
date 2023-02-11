@@ -1,3 +1,9 @@
+# Зависимости
+FreeBSD:
+```
+# pkg install asymptote
+```
+
 # 1062 Задача
 [<img src="./1062.svg" width="300" />]()
 
